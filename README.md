@@ -15,6 +15,7 @@ This project analyzes Disneys's financials and market position, including:
 ## Files
 - `BUS 2000 RESEARCH PAPER FINAL`: Final report  
 - `The Walt Disney Company - Final Presentation.pptx`: Group presentation
+- `PNG files`: Excel graphs
 
 ## Key Skills Demonstrated
 - Financial data analysis  
